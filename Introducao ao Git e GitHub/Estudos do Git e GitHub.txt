@@ -1,0 +1,38 @@
+Blobs
+Vai conter o tamanho 
+Vai conter "\0"
+Olá mundo (String)
+
+Trees
+Armazena blobs
+ela aponta para o blob
+que também vai contar o sha1
+aponto para outras bolhas
+
+Commits
+aponto para uma arvore
+um parente
+autor
+mensagem
+
+
+CHAVE SSH E TOKENS
+
+Chave SSH é uma forma de tornar seguro e confiavel a conexao
+
+Comando para executar a chave pelo Git Bash
+Foi gerado uma chave
+
+Criado e salvo o token
+
+
+INICIANDO O GIT
+git init
+git add
+git commit
+
+
+Criando arquivos dentro das pasta
+
+Criado um workspace
+Feito uma receita (strogonoff)
